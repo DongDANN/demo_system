@@ -32,7 +32,7 @@ if(isset($_SESSION['user_id'])){
     <div id="map"></div>
 
     <script
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8ps9u4llkxJ9vymRLuIFHt0t-Z8eF76U&callback=initMap&v=weekly"
+    src="https://maps.googleapis.com/maps/api/js?key=Xxxxxxxxxxxxxxxxxxxxxxx&callback=initMap&v=weekly"
     defer
     ></script>
 </body>
