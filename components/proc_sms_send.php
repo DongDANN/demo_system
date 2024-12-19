@@ -12,7 +12,7 @@ $stmt->execute();
 $stmt->close();
 
 $sid = "AC22607596a64770b6c247b0d38d6e7c46";
-$token = "82830501ce46be08e7b0898c9e374fa4";
+$token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 $client = new Twilio\Rest\Client($sid, $token);
 
 // Use the Client to make requests to the Twilio REST API
